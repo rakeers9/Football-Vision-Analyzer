@@ -11,5 +11,17 @@ The project utilizes the following key modules:
 - **Perspective Transformation**: Used to model scene depth and calculate real-world distances.
 - **Player Metrics**: Calculates the speed and distance covered by each player.
 
-## Sample Input Video
-- [Sample Video File](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+## Others
+- There is a jupyter notebook inside the training folder which was used to train the model on Google Colaboratory, which output a best.pt file which was stored in the models folder to use.
+- The input video is in the input_videos folder
+
+## Output
+- Along with what's in the output_videos folder, here are screenshots of the video that was produced, which was too big to upload to github.
+
+<img width="1470" alt="Screenshot 2024-08-13 at 8 28 42 PM" src="https://github.com/user-attachments/assets/8fbed414-7187-47b4-8b51-3a1125ae33c9">
+<img width="1470" alt="Screenshot 2024-08-13 at 8 28 28 PM" src="https://github.com/user-attachments/assets/51eb6a32-2ed6-46f1-ad2d-6858f7cabaa4">
+<img width="1470" alt="Screenshot 2024-08-13 at 8 28 18 PM" src="https://github.com/user-attachments/assets/a7a3373f-df05-497b-941a-d8fc66f95d66">
+<img width="1470" alt="Screenshot 2024-08-13 at 8 28 11 PM" src="https://github.com/user-attachments/assets/83d351d6-1d77-4c9e-b28d-283a196f8c81">
+
+## Enjoy!
+
